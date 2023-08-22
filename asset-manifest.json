@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e598545.css",
+    "main.js": "/static/js/main.5e188d7a.js",
+    "static/js/787.3adb45fa.chunk.js": "/static/js/787.3adb45fa.chunk.js",
+    "static/media/received_335622548007581.jpeg": "/static/media/received_335622548007581.09c10fb692884841c2e2.jpeg",
+    "static/media/hero.jpg": "/static/media/hero.1e81368c33e75c7c803a.jpg",
+    "static/media/rxxcwbk9ieymxklznujrd70vfzkjmupgr8q2kuyq.png": "/static/media/rxxcwbk9ieymxklznujrd70vfzkjmupgr8q2kuyq.5d6145a134bb22a30999.png",
+    "static/media/ข้าวปลาซาบะเทอริยากิ.jpg": "/static/media/ข้าวปลาซาบะเทอริยากิ.3bb4df0b27171c950cf5.jpg",
+    "static/media/pngegg.png": "/static/media/pngegg.fa51859b9ed38c0af531.png",
+    "index.html": "/index.html",
+    "main.4e598545.css.map": "/static/css/main.4e598545.css.map",
+    "main.5e188d7a.js.map": "/static/js/main.5e188d7a.js.map",
+    "787.3adb45fa.chunk.js.map": "/static/js/787.3adb45fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e598545.css",
+    "static/js/main.5e188d7a.js"
+  ]
+}
